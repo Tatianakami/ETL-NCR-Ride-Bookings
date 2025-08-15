@@ -25,27 +25,7 @@ Load → Salva o resultado transformado em data/output.csv.
 
 ![ Preview](/assets/img.png)
 
-🎯 Principais Pontos
 
-Estrutura de pastas clara e organizada (data, src, notebooks).
-
-Scripts separados para cada etapa do ETL.
-
-Automatização: um único comando executa todo o fluxo.
-
-Código modular e reutilizável para outros datasets.
-
-Compatível com VS Code, Bash e qualquer sistema com Python.
-
-🛠 Funcionalidades
-
-Limpeza e transformação de dados para análise ou visualização.
-
-Preparação de datasets para dashboards e relatórios.
-
-Exemplo didático para aprender ETL com Python.
-
-Base para pipelines maiores de análise de dados ou machine learning.
 
 Integração com ferramentas de BI (GIF do dashboard incluso).
 
