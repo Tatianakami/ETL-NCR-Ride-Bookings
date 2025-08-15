@@ -26,9 +26,6 @@ Load → Salva o resultado transformado em data/output.csv.
 ![ Preview](/assets/img.png)
 
 
-
-Integração com ferramentas de BI (GIF do dashboard incluso).
-
 📂 Estrutura do Projeto
 etl_ncr_rides/
 │
@@ -48,9 +45,6 @@ etl_ncr_rides/
 ├── Dashboard.gif 
 ├── requirements.txt 
 └── README.md
-
-
-
 
 
 
@@ -77,11 +71,6 @@ pip install -r requirements.txt
 
 4️⃣ Colocar o arquivo CSV de entrada
 
-Certifique-se de que ncr_ride_bookings.csv está na pasta data/.
-
-Se estiver em outro local:
-
-mv /caminho/do/arquivo/ncr_ride_bookings.csv data/
 
 5️⃣ Executar o pipeline ETL
 python src/load.py
