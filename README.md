@@ -50,9 +50,7 @@ etl_ncr_rides/
 └── README.md
 
 
-Importante: O arquivo Dashboard.gif precisa estar na mesma pasta do README ou o caminho precisa ser ajustado corretamente.
 
-Se estiver em outra pasta (por exemplo data/), use:
 
 
 
