@@ -141,8 +141,6 @@ df = extract()
 df_t = transform(df)
 load(df_t)
 
-# Visualizar primeiros registros
-df_t.head()
 
 🧑‍💻 Autor
 
